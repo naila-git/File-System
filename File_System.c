@@ -1,5 +1,3 @@
-// Marisa Dominguez 1001761302
-// Naila Imran 1001853558
 
 // The MIT License (MIT)
 // 
